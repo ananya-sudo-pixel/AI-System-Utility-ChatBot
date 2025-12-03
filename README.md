@@ -74,17 +74,24 @@ The chatbot opens as a desktop application window, not in a browser.
 
 ## 📸 Screenshots
 
-🔹 Main UI
+### 🔹 Main UI
+![Main UI](screenshots/main-ui.png)
 
-🔹 Notepad Button
+### 🔹 Notepad Button
+![Notepad Open](screenshots/notepad-open.png)
 
-🔹 Notepad via Command
+### 🔹 Notepad via Command
+![Notepad Command](screenshots/notepad-open-through-command.png)
 
-🔹 Perplexity Button
+### 🔹 Perplexity Button
+![Perplexity Open](screenshots/perplexity-open.png)
 
-🔹 Perplexity via Command
+### 🔹 Perplexity via Command
+![Perplexity Command](screenshots/perplexity-open-through-command.png)
 
-🔹 System Info Popup
+### 🔹 System Info Popup
+![System Info](screenshots/system-info.png)
+
 
 ---
 
